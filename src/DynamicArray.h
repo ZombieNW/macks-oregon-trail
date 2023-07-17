@@ -2,17 +2,15 @@
 #define DYNAMICARRAY_H
 
 #include <stdio.h>
+
 #include <string>
 
 using namespace std;
 
 class DynamicArray {
-
-
-  public:
-
-    // declaration of default constructor
-    DynamicArray();
+    public:
+        // declaration of default constructor
+        DynamicArray();
 
     string removeFirst();
 
@@ -26,11 +24,9 @@ class DynamicArray {
 
     bool contains(string val);
 
-    string* vals; // pointer to values
+    string * vals; // pointer to values
     size_t size; // number of elements in array
     size_t maxSize; // number of elements current array is allocated for 
 };
-
-
 
 #endif // DYNAMICARRAY_H
