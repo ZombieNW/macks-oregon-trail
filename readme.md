@@ -1,6 +1,6 @@
 # Mack's Oregon Trail
 ### _Hosted on my github, made by my friend Mack, I'm also helping, I'm important too._
-![Languages](https://badgen.net/badge/language/C/blue) ![License](https://badgen.net/badge/language/MIT/red)
+![Languages](https://badgen.net/badge/language/C++/blue) ![License](https://badgen.net/badge/language/MIT/red)
 
 
 ## What?
